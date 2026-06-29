@@ -21,3 +21,6 @@ The final submission must be a comprehensive Jupyter Notebook that includes well
 *OUTPUT*:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a65208bf-f620-4e67-805b-d8ea61e3bd51" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7554b3fb-e35c-4f06-96aa-64b271ec29fd" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a4118154-54ec-4283-b5eb-06b0c5f3b952" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e5d7e754-0efd-4116-b9e4-1b57382cca00" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7829102d-19f4-497d-91ad-a3638a05cf1a" />
